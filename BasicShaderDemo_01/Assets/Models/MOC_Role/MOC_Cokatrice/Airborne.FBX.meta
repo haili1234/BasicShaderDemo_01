@@ -1,0 +1,166 @@
+fileFormatVersion: 2
+guid: dc100424ca3dac44c875be6f403df6bd
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Bip001-Head_Bone
+    100004: Bip001-L-Calf_Bone
+    100006: Bip001-L-Foot_Bone
+    100008: Bip001-L-Thigh_Bone
+    100010: Bip001-L-Toe0_Bone
+    100012: Bip001-Neck1_Bone
+    100014: Bip001-Neck_Bone
+    100016: Bip001-Pelvis_Bone
+    100018: Bip001-R-Calf_Bone
+    100020: Bip001-R-Foot_Bone
+    100022: Bip001-R-Thigh_Bone
+    100024: Bip001-R-Toe0_Bone
+    100026: Bip001-Spine_Bone
+    100028: Bip001_Bone
+    100030: Cokatrice_A_SKEL
+    100032: Dummy_root
+    100034: FXDummy_Head
+    100036: Jaw_Bone
+    100038: L_Head_ACC1_Bone
+    100040: L_Head_ACC2_Bone
+    100042: L_Head_ACC3_Bone
+    100044: L_Wing_1_Bone
+    100046: L_Wing_2_Bone
+    100048: L_Wing_3_Bone
+    100050: R_Head_ACC1_Bone
+    100052: R_Head_ACC2_Bone
+    100054: R_Head_ACC3_Bone
+    100056: R_Wing_1_Bone
+    100058: R_Wing_2_Bone
+    100060: R_Wing_3_Bone
+    100062: Tail_1_Bone
+    100064: Tail_2_Bone
+    100066: Tail_3_Bone
+    400000: //RootNode
+    400002: Bip001-Head_Bone
+    400004: Bip001-L-Calf_Bone
+    400006: Bip001-L-Foot_Bone
+    400008: Bip001-L-Thigh_Bone
+    400010: Bip001-L-Toe0_Bone
+    400012: Bip001-Neck1_Bone
+    400014: Bip001-Neck_Bone
+    400016: Bip001-Pelvis_Bone
+    400018: Bip001-R-Calf_Bone
+    400020: Bip001-R-Foot_Bone
+    400022: Bip001-R-Thigh_Bone
+    400024: Bip001-R-Toe0_Bone
+    400026: Bip001-Spine_Bone
+    400028: Bip001_Bone
+    400030: Cokatrice_A_SKEL
+    400032: Dummy_root
+    400034: FXDummy_Head
+    400036: Jaw_Bone
+    400038: L_Head_ACC1_Bone
+    400040: L_Head_ACC2_Bone
+    400042: L_Head_ACC3_Bone
+    400044: L_Wing_1_Bone
+    400046: L_Wing_2_Bone
+    400048: L_Wing_3_Bone
+    400050: R_Head_ACC1_Bone
+    400052: R_Head_ACC2_Bone
+    400054: R_Head_ACC3_Bone
+    400056: R_Wing_1_Bone
+    400058: R_Wing_2_Bone
+    400060: R_Wing_3_Bone
+    400062: Tail_1_Bone
+    400064: Tail_2_Bone
+    400066: Tail_3_Bone
+    4300000: Cokatrice_A_SKEL
+    7400000: Take 001
+    7400002: Airborne
+    9500000: //RootNode
+    13700000: Cokatrice_A_SKEL
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MOC_Cokatrice_A_MI
+    second: {fileID: 2100000, guid: 5bc0ec03274fb824188672ee6f7bdc49, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.0254
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

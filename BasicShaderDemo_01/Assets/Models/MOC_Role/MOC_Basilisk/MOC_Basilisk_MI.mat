@@ -1,0 +1,5 @@
+Diffuse=MOC_Basilisk_DIFF
+Normal=MOC_Basilisk_NM
+Other[0]=MOC_Basilisk_MC
+Other[1]=BaseNormal_TEX
+Other[2]=DefaultBaseColor_TEX

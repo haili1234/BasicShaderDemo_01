@@ -1,0 +1,163 @@
+fileFormatVersion: 2
+guid: f07d0895b6f26264297ae344f82c0b98
+timeCreated: 1514365098
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Basilisk_A_SKEL
+    100004: Bip001
+    100006: Bip001-Head
+    100008: Bip001-L-Calf
+    100010: Bip001-L-Clavicle
+    100012: Bip001-L-Finger0
+    100014: Bip001-L-Foot
+    100016: Bip001-L-Forearm
+    100018: Bip001-L-Hand
+    100020: Bip001-L-Thigh
+    100022: Bip001-L-Toe0
+    100024: Bip001-L-UpperArm
+    100026: Bip001-Neck
+    100028: Bip001-Pelvis
+    100030: Bip001-R-Calf
+    100032: Bip001-R-Clavicle
+    100034: Bip001-R-Finger0
+    100036: Bip001-R-Foot
+    100038: Bip001-R-Forearm
+    100040: Bip001-R-Hand
+    100042: Bip001-R-Thigh
+    100044: Bip001-R-Toe0
+    100046: Bip001-R-UpperArm
+    100048: Bip001-Spine
+    100050: Bip001-Spine1
+    100052: Dummy_root
+    100054: FXDummy_Head
+    100056: Jaw_Bone
+    100058: Tail1_Bone
+    100060: Tail2_Bone
+    100062: Tail3_Bone
+    100064: Tail4_Bone
+    100066: Tail5_Bone
+    400000: //RootNode
+    400002: Basilisk_A_SKEL
+    400004: Bip001
+    400006: Bip001-Head
+    400008: Bip001-L-Calf
+    400010: Bip001-L-Clavicle
+    400012: Bip001-L-Finger0
+    400014: Bip001-L-Foot
+    400016: Bip001-L-Forearm
+    400018: Bip001-L-Hand
+    400020: Bip001-L-Thigh
+    400022: Bip001-L-Toe0
+    400024: Bip001-L-UpperArm
+    400026: Bip001-Neck
+    400028: Bip001-Pelvis
+    400030: Bip001-R-Calf
+    400032: Bip001-R-Clavicle
+    400034: Bip001-R-Finger0
+    400036: Bip001-R-Foot
+    400038: Bip001-R-Forearm
+    400040: Bip001-R-Hand
+    400042: Bip001-R-Thigh
+    400044: Bip001-R-Toe0
+    400046: Bip001-R-UpperArm
+    400048: Bip001-Spine
+    400050: Bip001-Spine1
+    400052: Dummy_root
+    400054: FXDummy_Head
+    400056: Jaw_Bone
+    400058: Tail1_Bone
+    400060: Tail2_Bone
+    400062: Tail3_Bone
+    400064: Tail4_Bone
+    400066: Tail5_Bone
+    4300000: Basilisk_A_SKEL
+    9500000: //RootNode
+    13700000: Basilisk_A_SKEL
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MOC_Basilisk_A_MI
+    second: {fileID: 2100000, guid: 724738c3831586f4fb57ca37671910c1, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

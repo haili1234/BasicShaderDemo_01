@@ -1,0 +1,5 @@
+Diffuse=Cokatrice_C_DIFF
+Normal=Cokatrice_NM
+Other[0]=Cokatrice_MC
+Other[1]=BaseNormal_TEX
+Other[2]=DefaultBaseColor_TEX
