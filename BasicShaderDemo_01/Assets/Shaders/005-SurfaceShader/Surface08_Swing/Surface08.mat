@@ -7,8 +7,8 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: VertAnim
-  m_Shader: {fileID: 4800000, guid: c3e1fd0112a47124e8687e55b4d34e83, type: 3}
+  m_Name: Surface08
+  m_Shader: {fileID: 4800000, guid: bd395cadd38f7d64fa16d334b0de8a2c, type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
@@ -40,7 +40,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
-        m_Texture: {fileID: 2800000, guid: 16f2817ee880f48cab80ee233bf8f4a0, type: 3}
+        m_Texture: {fileID: 2800000, guid: a994e3d392928a7409d7d2bd261f880c, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MetallicGlossMap:
@@ -56,22 +56,21 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Floats:
-    - _Arange: 0.42
     - _BumpScale: 1
     - _Cutoff: 0.5
     - _DetailNormalMapScale: 1
     - _DstBlend: 0
-    - _Frequency: 3.08
+    - _ExtrusionFrency: 50
+    - _ExtrusionSwing: 8
     - _GlossMapScale: 1
-    - _Glossiness: 0.5
+    - _Glossiness: 0.306
     - _GlossyReflections: 1
-    - _Metallic: 0
+    - _Metallic: 0.089
     - _Mode: 0
     - _OcclusionStrength: 1
     - _Parallax: 0.02
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1
-    - _Speed: 0.5
     - _SrcBlend: 1
     - _UVSec: 0
     - _ZWrite: 1
